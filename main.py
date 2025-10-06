@@ -7,7 +7,7 @@ BOT_TOKEN = "7830152929:AAH4ZvDDdtA8kOzSbbi3G4WDmvwL9KnF8Pc"
 CHAT_ID = "@Miladarjmand1"
 
 # 🔹 آدرس جستجوی سفرمی (مثال)
-URL = "https://www.safarme.ir/train/qom-tehran/?key=246cf9c7-a9ab-4ffb-a5aa-2e4372d0f463*TVRreUxqRTJPQzQyTlM0eU5Eb3lNREEx"
+URL = "https://mrbilit.com/trains/qom-tehran?departureDate=1404-07-16"
 
 # 🔹 تابع ارسال پیام در تلگرام
 def send_telegram_message(message):
